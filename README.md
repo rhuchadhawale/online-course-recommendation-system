@@ -1,6 +1,6 @@
 # online-course-recommendation-system
 A hybrid course recommendation engine combining content-based filtering (TF-IDF + Nearest Neighbors) and item-based collaborative filtering (cosine similarity), deployed as an interactive Streamlit app. Recommends relevant online courses based on course content, ratings, and user behavior.
-<img width="940" height="591" alt="Screenshot 2026-07-02 121856" src="https://github.com/user-attachments/assets/81edaab5-eddf-
+
 📌 Overview
 
 This project builds and compares three recommendation strategies on a dataset of 100,000 user-course interactions across 20 courses and 43,000+ users:
